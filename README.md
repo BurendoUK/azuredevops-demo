@@ -1,2 +1,3 @@
-# burendo-repo-template
-This repo contains Makefile to fit the standard pattern. This repo is a base to create new non-Terraform repos, adding the githooks submodule, making the repo ready for use.  After cloning this repo, please run: make bootstrap
+# Azure DevOps Demo
+
+Demo repo setup for learning Paul Glover and anyone else who is interested in Azure. Could potentially change to a learning repo.
